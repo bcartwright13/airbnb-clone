@@ -1,10 +1,11 @@
 import React from "react"
 import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
 function App() {
   return (
     <div>
       <Navbar />
-      <h1>yes</h1>
+      <Hero />
     </div>
   );
 }

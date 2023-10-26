@@ -12,7 +12,7 @@ export default function Card(){
                     <p class="trend-number">(5) USA</p>
                 </div>
                 <p>Life lessons with Katie Zaferes</p>
-                <p><strong>From $136</strong> / person</p>
+                <p class = "price"><strong>From $136</strong> / person</p>
             </div>
         </div>
     )

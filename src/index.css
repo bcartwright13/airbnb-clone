@@ -7,7 +7,7 @@ body{
   font-family: poppins;
   max-width: 600px;
   box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.274);
-  height: 100vh;
+  
 }
 nav{
   display: flex;
@@ -40,15 +40,17 @@ nav > h2{
 .card{
   display: flex;
   flex-direction: column;
-  
+  padding-left: 30px;
 }
 .below-image{
   display: flex;
-  justify-content: center;
   align-items: center;
-  
+  margin-bottom: -28px;
 }
 .star{
-  max-width: 20px;
-  max-height: 20px;
+  max-width: 18px;
+  max-height: 18px;
+}
+.price{
+  margin-top: -15px;
 }

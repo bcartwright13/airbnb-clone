@@ -54,3 +54,9 @@ nav > h2{
 .price{
   margin-top: -15px;
 }
+.cards-list{
+  display: flex;
+  flex-wrap:nowrap;
+  gap:20px;
+  overflow-x: auto;
+}
